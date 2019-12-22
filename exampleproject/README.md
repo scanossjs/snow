@@ -1,6 +1,8 @@
 # Example Project
 ppp
 
+dfadsjf;asdjfs;af
+
 This is an example project demonstrating the use of Snow. It has both a
 [Makefile](https://github.com/mortie/snow/blob/master/exampleproject/src/Makefile)
 and a
