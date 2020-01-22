@@ -5,7 +5,7 @@
 
 #include <snow/snow.h>
 snow_main();
-
+// This is a test
 #else
 
 // Example program which will just put all strings in argv into a vector,
