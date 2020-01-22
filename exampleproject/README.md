@@ -2,6 +2,7 @@
 
 TTTTT
 AAAA
+BOOOOL
 ddd
 
 This is an example project demonstrating the use of Snow. It has both a
