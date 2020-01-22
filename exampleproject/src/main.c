@@ -7,6 +7,7 @@
 snow_main();
 // This is a test
 // Adding more comments for test
+// And a bit more
 #else
 
 // Example program which will just put all strings in argv into a vector,
